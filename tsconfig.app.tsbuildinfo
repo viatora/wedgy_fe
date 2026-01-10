@@ -1,1 +1,26 @@
-{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/bandcampplayer/bandcampplayer.tsx","./src/components/footer/footer.tsx","./src/components/header/header.tsx","./src/components/header/navbar/navbar.tsx","./src/components/homemenu/homemenu.tsx","./src/pages/about.tsx","./src/pages/contact.tsx","./src/pages/home.tsx","./src/pages/music.tsx","./src/utils/fetchdata.ts"],"version":"5.6.3"}
+{
+  "root": [
+    "./src/app.tsx",
+    "./src/main.tsx",
+    "./src/vite-env.d.ts",
+    "./src/components/bandcampplayer/bandcampplayer.tsx",
+    "./src/components/footer/footer.tsx",
+    "./src/components/header/header.tsx",
+    "./src/components/header/icon.tsx",
+    "./src/components/header/navbar/navbar.tsx",
+    "./src/components/homemenu/homemenu.tsx",
+    "./src/components/tourdates/tourdate.tsx",
+    "./src/components/tourdates/tourdatescontainer.tsx",
+    "./src/pages/about.tsx",
+    "./src/pages/contact.tsx",
+    "./src/pages/home.tsx",
+    "./src/pages/merch.tsx",
+    "./src/pages/music.tsx",
+    "./src/pages/tour.tsx",
+    "./src/utils/checkdate.ts",
+    "./src/utils/fetchdata.ts",
+    "./src/utils/parsecsv.ts",
+    "./src/utils/types/types.ts"
+  ],
+  "version": "5.6.3"
+}
